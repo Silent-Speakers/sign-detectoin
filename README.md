@@ -3,7 +3,7 @@
 ## prerequisite 
 
 * Python 
-* IDE (VS code)
+* IDE (VS code  and Pycharm)
 * cv2 (openCV) 
 * mediapipe 
 * Tkinter 
